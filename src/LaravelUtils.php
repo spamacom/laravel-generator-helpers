@@ -1,6 +1,6 @@
 <?php
 
-namespace InfyOm\GeneratorHelpers;
+namespace Spama\GeneratorHelpers;
 
 class LaravelUtils
 {
